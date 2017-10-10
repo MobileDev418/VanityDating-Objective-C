@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "c1c606e4-8211-4562-a92b-8a7618c5f15d++1715" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "c1c606e4-8211-4562-a92b-8a7618c5f15d++1715" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BC7BF780-FBD1-48C7-A3FB-1BDFF1E67AE6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "c1c606e4-8211-4562-a92b-8a7618c5f15d++1715" : "VanityDate\/VanityDate\/ThirdParty\/JSON\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "VanityDate",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "VanityDate.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svn.dogpaw.com.br\/WhiteWeddingiOs",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "c1c606e4-8211-4562-a92b-8a7618c5f15d++1715"
+    }
+  ]
+}
